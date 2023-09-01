@@ -1,0 +1,140 @@
+Barricade - 障碍物
+Insurrection - 起义
+Prodigy - 奇才
+Pernicious - 有害的
+Pugnacious - 好斗的
+Euphoria - 欣快感
+Melancholy - 忧郁
+Clandestine - 秘密的
+Enmity - 敌意
+Penitentiary - 监狱
+Inscrutable - 难以理解的
+Inexorable - 不可阻挡的
+Inevitable - 不可避免的
+Malevolent - 恶意的
+Benevolent - 仁慈的
+Indomitable - 不屈不挠的
+Perdition - 毁灭
+Profligate - 放荡的
+Reverie - 幻想
+Squalor - 肮脏
+Stupefaction - 麻痹
+Surfeit - 过度
+Transcendent - 卓越的
+Veneration - 尊敬
+Virtue - 美德
+Abject - 悲惨的
+Adversity - 逆境
+Altruism - 利他主义
+Ambiguous - 模糊的
+Anarchy - 无政府状态
+Antipathy - 反感
+Blasphemy - 亵渎
+Calamity - 灾难
+Candor - 坦率
+Capricious - 反复无常的
+Chastity - 贞洁
+Complaisant - 顺从的
+Conflagration - 大火
+Conspicuous - 显眼的
+Contemptuous - 蔑视的
+Convalescence - 恢复期
+Cynical - 愤世嫉俗的
+Debauchery - 放荡
+Defenestration - 投掷窗外
+Demagogue - 煽动者
+Desolation - 荒凉
+Despotism - 专制
+Dilapidated - 破旧的
+Disheveled - 不整洁的
+Disparity - 不平等
+
+"To love another person is to see the face of God."
+"Even the darkest night will end and the sun will rise."
+"He never went out without a book under his arm, and he often came back with two."
+"There is nothing like a dream to create the future."
+"To be brave is to love someone unconditionally, without expecting anything in return."
+"The future has several names. For the weak, it is impossible. For the fainthearted, it is unknown. For the thoughtful and valiant, it is ideal."
+"The supreme happiness of life is the conviction that we are loved."
+  "Those who do not weep, do not see."
+"The first symptom of love in a young man is shyness; the first symptom in a woman, it's boldness."
+"The most sublime act is to set another before you."
+"It is not enough to be good; you must be good for something."
+"To put everything in balance is good, to put everything in harmony is better."
+"The greatest happiness of life is the conviction that we are loved -- loved for ourselves, or rather, loved in spite of ourselves."
+"Have no fear of robbers or murderers. They are external dangers, petty dangers. We should fear ourselves. Prejudices are the real robbers; vices the real murderers."
+"To be blind is not miserable; not to be able to bear blindness, that is miserable."
+"The most important thing is not to be bitter about life's disappointments."
+"Life is a progress, and not a station."
+"The good you do today will often be forgotten tomorrow. Do good anyway."
+"You can give without loving, but you cannot love without giving."
+"Laughing is not always the proof of a mind at ease."
+"The soul has illusions as the bird has wings; it is supported by them."
+"The only way to deal with fear is to face it head on."
+"The only true happiness in life is to love and be loved in return."
+"A garden to walk in and immensity to dream in--what more could he ask? A few flowers at his feet and above him the stars."
+"There is always more misery among the lower classes than there is humanity in the higher."
+"People do not lack strength; they lack will."
+"The greatest gift of life is friendship, and I have received it."
+"The man who has no sense of history, is like a man who has no ears or eyes."
+"Even the darkest night will end and the sun will rise."
+"The human heart has hidden treasures, in secret kept, in silence sealed."
+"I am a soul in agony, lost among the winds, and I do not know where I am going."
+"There is a great deal of difference between an eager man who wants to read a book and the tired man who wants a book to read."
+"To err is human, to forgive, divine."
+"The true way to soften one's troubles is to solace those of others."
+"I am a galley slave to pen and ink."
+"It is nothing to die; it is frightful not to live."
+"I am not a politician, and my other habits air good."
+"The power of a glance has been so much abused in love stories, that it has come to be disbelieved in. Few people dare now to say that two beings have fallen in love because they have looked at each other. Yet it is in this way that love begins, and in this way only."
+"It is not easy to keep silent when silence is a lie."
+"The pupil dilates in darkness and in the end finds light, just as the soul dilates in misfortune and in the end finds God."
+"I am not a bird, and no net ensnares me."
+"To study is to learn, but to understand is to live."
+"The most important thing in life is to learn how to give out love, and to let it come in."
+"Even the darkest night will end and the sun will rise."
+"The supreme happiness of life is the conviction that we are loved."
+"The sea is a vast reservoir of nature."
+"What a grand thing, to be loved! What a grander thing still, to love!"
+"To be happy is to be able to become aware of oneself without fright."
+"The spirit of revolution is an idea, and ideas can never be killed."
+"The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves."
+
+
+Jean Valjean spoke in a low and hesitant voice, his eyes downcast and his hands fidgeting nervously.
+	Fantine's voice was soft and gentle, but her eyes were haunted by a deep sadness and despair.
+Inspector Javert's voice was cold and emotionless, his eyes fixed on his target with a steely gaze.
+Marius' voice was passionate and full of conviction, his eyes shining with idealism and hope.
+Cosette's voice was sweet and musical, her eyes bright with innocence and wonder.
+Eponine's voice was rough and streetwise, but her eyes betrayed a deep sensitivity and empathy.
+Gavroche's voice was loud and boisterous, his eyes sparkling with mischief and humor.
+Bishop Myriel's voice was kind and gentle, his eyes radiating compassion and understanding.
+Madame Thenardier's voice was sharp and cutting, her eyes gleaming with avarice and greed.
+Monsieur Thenardier's voice was oily and insincere, his eyes darting around furtively in search of opportunity.
+Enjolras' voice was passionate and commanding, his eyes blazing with revolutionary fervor.
+Combeferre's voice was calm and measured, his eyes shining with intellectual curiosity and insight.
+Courfeyrac's voice was jovial and friendly, his eyes twinkling with mischief and good humor.
+Bahorel's voice was rough and boisterous, his eyes gleaming with a rebellious spirit.
+Feuilly's voice was earnest and sincere, his eyes burning with a desire for change and progress.
+Joly's voice was anxious and worried, his eyes darting nervously around the room.
+Grantaire's voice was bitter and cynical, his eyes filled with a deep sense of disillusionment.
+Fauchelevent's voice was gentle and soothing, his eyes radiating kindness and empathy.
+Monsieur Gillenormand's voice was proud and aristocratic, his eyes flashing with disdain for the lower classes.
+Colonel Georges Pontmercy's voice was strong and commanding, his eyes shining with courage and determination.
+Monsieur Mabeuf's voice was soft and bookish, his eyes twinkling with a love of literature and music.
+Azelma's voice was high-pitched and girlish, her eyes wide with admiration for her sister Eponine.
+Little Gervais' voice was soft and pleading, his eyes wide with fear and confusion.
+The ABC Society's voices were passionate and idealistic, their eyes shining with a shared vision of a better world.
+Madame Magloire's voice was soft and soothing, her eyes full of compassion and understanding.
+Monsieur Bamatabois' voice was sneering and contemptuous, his eyes filled with a smug sense of superiority.
+The Friends of the ABC's voices were animated and lively, their eyes sparkling with intellectual curiosity and debate.
+Sister Simplice's voice was gentle and reassuring, her eyes radiating kindness and compassion.
+Sister Perpetue's voice was sharp and critical, her eyes full of suspicion and judgment.
+The Thenardier's son's voice was cruel and mocking, his eyes gleaming with sadistic pleasure.
+Monsieur Babet's voice was rough and gruff, his eyes shifty and evasive.
+Monsieur Claquesous' voice was sly and cunning, his eyes darting around the room in search of opportunity.
+Madame Victurnien's voice was cold and aloof, her eyes filled with contempt for those beneath her.
+Monsieur Boulatruelle's voice was rough and coarse, his eyes gleaming with a sense of wildness and unpredictability.
+Monsieur Gillenormand's butler Basque's voice was deferential and respectful, his eyes full of loyalty and discretion.
+The Changer's voice was soft and insinuating, his eyes full of guile and cunning.
+The Petit-Picpus convent
