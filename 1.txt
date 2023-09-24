@@ -1590,12 +1590,6 @@ cn.nytstyle.com
 ||telesco.pe
 !!!---IP---
 
-!!---Twitch---
-||jtvnw.net
-||ttvnw.net
-||twitch.tv
-||twitchcdn.net
-
 !!---Twitter---
 ||periscope.tv
 .pscp.tv
