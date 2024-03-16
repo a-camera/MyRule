@@ -156,7 +156,7 @@ share.dmhy.org
 ||kb.monitorware.com
 ||monster.com
 ||moodyz.com
-||moonbingo.com
+||moono.com
 ||mos.ru
 ||msha.gov
 ||muzu.tv
@@ -543,9 +543,6 @@ china-mmm.jp.net
 china-mmm.sa.com
 
 !---------------------Groups--------------------
-!!---New Bing---
-.bing.com
-
 !!---Afraid FreeDNS---
 .allowed.org
 .now.im
