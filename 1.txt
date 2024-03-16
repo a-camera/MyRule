@@ -543,6 +543,9 @@ china-mmm.jp.net
 china-mmm.sa.com
 
 !---------------------Groups--------------------
+!!---New Bing---
+.bing.com
+
 !!---Afraid FreeDNS---
 .allowed.org
 .now.im
