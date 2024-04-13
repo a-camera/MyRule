@@ -35,6 +35,7 @@
 ||bankmobilevibe.com
 ||banorte.com
 ||beeg.com
+||global.bing.com
 ||booktopia.com.au
 ||boysmaster.com
 ||bynet.co.il
@@ -8373,6 +8374,7 @@ ultrasurf
 !################Whitelist Start################
 @@||aliyun.com
 @@||baidu.com
+!--@@||bing.com
 @@||chinaso.com
 @@||chinaz.com
 @@|http://nrch.culture.tw/
