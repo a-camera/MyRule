@@ -1309,8 +1309,9 @@ cdninstagram.com
 !--.ftchinese.com/comments
 
 !!---copilot---
-.bing.com
-.clarity.ms
+||clarity.ms
+||bing.com
+||clarity.ms
 
 !!---Google---
 !###https://www.google.com/supported_domains###
