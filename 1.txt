@@ -35,7 +35,6 @@
 ||bankmobilevibe.com
 ||banorte.com
 ||beeg.com
-||global.bing.com
 ||booktopia.com.au
 ||boysmaster.com
 ||bynet.co.il
@@ -1308,6 +1307,10 @@ cdninstagram.com
 !--.ftchinese.com/video/2446
 !--.ftchinese.com/video/2601
 !--.ftchinese.com/comments
+
+!!---Copilot---
+||bing.com
+||clarity.ms
 
 !!---Google---
 !###https://www.google.com/supported_domains###
@@ -8374,7 +8377,6 @@ ultrasurf
 !################Whitelist Start################
 @@||aliyun.com
 @@||baidu.com
-!--@@||bing.com
 @@||chinaso.com
 @@||chinaz.com
 @@|http://nrch.culture.tw/
