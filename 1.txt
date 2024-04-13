@@ -1309,7 +1309,7 @@ cdninstagram.com
 !--.ftchinese.com/comments
 
 !!---copilot---
-||clarity.ms
+.clarity.ms
 .bing.com
 
 !!---Google---
