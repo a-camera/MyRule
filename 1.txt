@@ -1311,6 +1311,7 @@ cdninstagram.com
 !!---Copilot---
 ||bing.com
 ||clarity.ms
+||copilot.microsoft.com
 
 !!---Google---
 !###https://www.google.com/supported_domains###
