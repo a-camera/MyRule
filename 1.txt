@@ -1308,11 +1308,6 @@ cdninstagram.com
 !--.ftchinese.com/video/2601
 !--.ftchinese.com/comments
 
-!!---Copilot---
-||bing.com
-||clarity.ms
-||microsoft.com
-
 !!---Google---
 !###https://www.google.com/supported_domains###
 !...GFWList doesn't intend to support typosquatting...
