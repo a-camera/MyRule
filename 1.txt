@@ -2090,6 +2090,10 @@ aiweiwei.com
 ||aiweiweiblog.com
 ||www.ajsands.com
 
+!!chatgpt
+.chatgpt.com
+||chatgpt.com
+
 !!---Akamai---
 a248.e.akamai.net
 ||a248.e.akamai.net
@@ -8429,3 +8433,4 @@ ultrasurf
 @@|http://ime.baidu.jp
 !################Whitelist End##################
 !---------------------EOF-----------------------
+
